@@ -1,0 +1,6 @@
+{
+  "name": "Pizza 1",
+  "description": "Pizza 1 is a pizza and fast food restaurant located at 1, Peshawar Road, Rawalpindi, Pakistan. Fresh pizzas, fast food, and friendly service. Call 0336 7111124 or 0314 5169922.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
